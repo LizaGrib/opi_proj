@@ -1,2 +1,2 @@
 # opi_proj
-projec for opi
+project for opi
